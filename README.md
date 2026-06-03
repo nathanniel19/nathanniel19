@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanniel19
 - 👀 Recently, I’m interested in Programming
-- 🌱 I’m currently learning C++
+
 
 
 <!---
